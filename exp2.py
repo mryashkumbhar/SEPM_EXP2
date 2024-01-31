@@ -1,1 +1,1 @@
-helllo world
+print('helllo world')
